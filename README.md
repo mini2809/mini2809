@@ -3,8 +3,16 @@ Welcome to my Page!
 
 I am Mini, Software Developer More towards Frontend.Currently Looking for more opportunities on Frontend
 
+- 🎓 May 2019 - **B.E in Computer Science**
+- 💻 1 year Experienced at **TCS as a Frontend Developer ** 📷
+- 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
+- 🌴 Check out my website **[Portfolio](https://mini928.github.io)**
+
 <h3>Things I code with</h3>
 <p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat&logo=javascript&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -19,7 +27,9 @@ I am Mini, Software Developer More towards Frontend.Currently Looking for more o
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/mini2809" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="www.linkedin.com/in/mini-jain928" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p> <a href="mailto:minijaib928@gmail.com"> 
+        <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/mini-jain928" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 </p>
 <!--
 **mini2809/mini2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
