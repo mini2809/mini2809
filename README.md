@@ -1,7 +1,7 @@
 ### Hi there 👋
 Welcome to my Page!
 
-I am Mini, Software Developer More towards Frontend.Currently Looking for more opportunities on Frontend
+I am Mini, Software Developer More towards Frontend. Currently Looking for opportunities on Frontend
 
 - 🎓 May 2019 - **B.E in Computer Science**
 - 💻 1 year Experienced at **TCS as a Frontend Developer ** 📷
