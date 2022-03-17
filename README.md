@@ -27,9 +27,9 @@ I am Mini, Software Developer More towards Frontend. Currently Looking for oppor
 </p>
 
 <h3>Where to find me</h3>
-<p> <a href="mailto:minijaib928@gmail.com"> 
+<p> <a href="mailto:minijain928@gmail.com"> 
         <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/mini-jain928" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mini-jain928" target="_blank"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
 </p>
 <!--
 **mini2809/mini2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
