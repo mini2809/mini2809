@@ -3,10 +3,11 @@ Welcome to my Page!
 
 I am Mini, Software Developer More towards Frontend. Currently Looking for opportunities on Frontend
 
-- 🎓 May 2019 - **B.E in Computer Science**
-- 💻 1 year Experienced at **TCS as a Frontend Developer ** 📷
-- 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
+
+- 💻 3 years of experience **as Fullstack Developer ** 📷
 - 🌴 Check out my website **[Portfolio](https://mini2809.github.io/)**
+- 👑 Pronouns: [she/her](https://www.mypronouns.org/she-her)
+- 🎓 **Bachelors in Computer Science**
 
 <h3>Things I code with</h3>
 <p>
